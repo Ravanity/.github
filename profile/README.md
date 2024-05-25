@@ -28,14 +28,13 @@ Have questions or need assistance? Connect with our community and support team o
 A heartfelt thanks to our committed team who keep Ravanity thriving:
 
 ### Administrators
-- @bettausrosen
-- @libertarx
-- @reezy-development
+- [@bettausrosen](https://github.com/bettausrosen)
+- [@reezy-development](https://github.com/reezy-development)
 
 ### Developers
-- @shvquu
-- @tiredmary
-- @mq289
+- [@shvquu](https://github.com/shvquu)
+- [@tiredmary](https://github.com/tiredmary)
+- [@FusseligerDev](https,//guthub.com/FusseligerDev)
 
 ### Contributions
 We deeply value contributions from our community. If you're interested in contributing, check our contribution guidelines to get started. Together, let’s build something extraordinary!
