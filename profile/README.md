@@ -34,7 +34,7 @@ A heartfelt thanks to our committed team who keep Ravanity thriving:
 ### Developers
 - [@shvquu](https://github.com/shvquu)
 - [@tiredmary](https://github.com/tiredmary)
-- [@FusseligerDev](https//github.com/FusseligerDev)
+- [@FusseligerDev](https://github.com/FusseligerDev)
 
 ### Contributions
 We deeply value contributions from our community. If you're interested in contributing, check our contribution guidelines to get started. Together, let’s build something extraordinary!
