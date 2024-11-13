@@ -1,7 +1,5 @@
 # Ravanity Network
 
-![Ravanity Logo](https://cdn.discordapp.com/attachments/871818979310731336/1306377437675782257/500x500.png?ex=6736724c&is=673520cc&hm=f28a96c77eba936aaec44ea5dcf07f46367f5f1cb687bdc35c1605146991b977&)
-
 Welcome to the official GitHub page of **Ravanity Network**, a distinguished online Minecraft community renowned for its dynamic and immersive gaming environments. Connect with us through multiple server IPs and engage with a global community of enthusiastic gamers.
 
 ## Join Ravanity Network
