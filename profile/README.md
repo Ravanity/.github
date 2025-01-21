@@ -50,6 +50,8 @@ A huge thank you to the dedicated team making Ravanity possible:
 - [@reinesgift](https://github.com/reinesgiftt)
 
 ### Developers
+- [@tiredMary](https://github.com/tiredmary)
+- [@xEinfacher](https://github.com/xEinfacher)
 - **You?** We’re always looking for talented contributors to join our team! 
 
 ---
