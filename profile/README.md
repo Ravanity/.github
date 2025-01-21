@@ -47,7 +47,7 @@ A huge thank you to the dedicated team making Ravanity possible:
 ### Administrators
 - [@bettausrosen](https://github.com/bettausrosen)
 - [@Kaseax](https://github.com/Kaseax)
-- [@reinesgift](https://github.com/reinesgiftt)
+- [@reinesgift](https://github.com/reinesgift7)
 
 ### Developers
 - [@tiredMary](https://github.com/tiredmary)
